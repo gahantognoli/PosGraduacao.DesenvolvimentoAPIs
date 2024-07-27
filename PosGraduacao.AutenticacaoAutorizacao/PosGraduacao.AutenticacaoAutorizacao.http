@@ -1,0 +1,6 @@
+@PosGraduacao.AutenticacaoAutorizacao_HostAddress = http://localhost:5007
+
+GET {{PosGraduacao.AutenticacaoAutorizacao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
